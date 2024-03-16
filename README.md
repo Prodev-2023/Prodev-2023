@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend and Frontend Development 
 - 🌱 I’m currently learning Python but efficient on Html and Css javascript  and Tailwind.
 - 💞️ I’m looking to collaborate on any gig
-- 📫 How to reach me my-portfolio-chi-six-41.vercel.app 
+- 📫 How to reach  https://my-portfolio-chi-six-41.vercel.app/index.html
 - 😄 Pronouns: ... keep building
 - ⚡ Fun fact: ... the journey of a thousand mile always starts with one bold step
 
